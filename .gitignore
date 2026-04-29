@@ -1,0 +1,5 @@
+bin/
+data/
+obs-plugins/
+config/obs-studio/.sentinel/
+config/obs-studio/plugin_config/obs-browser/
