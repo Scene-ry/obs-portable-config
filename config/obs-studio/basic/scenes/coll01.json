@@ -420,7 +420,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "text": "Sat",
+                "text": "Fri",
                 "font": {
                     "face": "Consolas",
                     "flags": 0,
@@ -798,7 +798,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "text": "21:05:40",
+                "text": "21:02:05",
                 "font": {
                     "face": "Consolas",
                     "flags": 0,
@@ -951,7 +951,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "text": "2026-04-25",
+                "text": "2026-05-01",
                 "font": {
                     "face": "Consolas",
                     "flags": 0,
@@ -1778,10 +1778,10 @@
             "mixers": 255,
             "sync": 0,
             "flags": 0,
-            "volume": 1.0,
+            "volume": 1.1220184564590454,
             "balance": 0.5,
             "enabled": true,
-            "muted": false,
+            "muted": true,
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
@@ -1809,7 +1809,7 @@
             "mixers": 255,
             "sync": 0,
             "flags": 0,
-            "volume": 1.0,
+            "volume": 1.1220184564590454,
             "balance": 0.5,
             "enabled": true,
             "muted": false,
@@ -1838,7 +1838,7 @@
                 "device_id": "{0.0.1.00000000}.{ca243551-a04c-4882-8cc5-f45eb25a64b2}"
             },
             "mixers": 255,
-            "sync": 0,
+            "sync": 30000000,
             "flags": 0,
             "volume": 1.0,
             "balance": 0.5,
@@ -4757,20 +4757,20 @@
                         "id": 32,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 1395.0,
-                            "y": 725.0
+                            "x": 1420.0,
+                            "y": 687.0
                         },
                         "pos_rel": {
-                            "x": 0.8055555820465088,
-                            "y": 0.34259259700775146
+                            "x": 0.8518518805503845,
+                            "y": 0.27222228050231934
                         },
                         "scale": {
-                            "x": 0.8843749761581421,
-                            "y": 0.8854166865348816
+                            "x": 1.068750023841858,
+                            "y": 1.068750023841858
                         },
                         "scale_rel": {
-                            "x": 0.8843749761581421,
-                            "y": 0.8854166865348816
+                            "x": 1.068750023841858,
+                            "y": 1.068750023841858
                         },
                         "bounds": {
                             "x": 0.0,
