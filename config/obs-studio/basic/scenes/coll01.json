@@ -10,7 +10,8 @@
             "settings": {
                 "video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#226&1354b9c&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
                 "last_video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#226&1354b9c&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
-                "active": true
+                "active": true,
+                "deactivate_when_not_showing": true
             },
             "mixers": 255,
             "sync": 0,
@@ -1711,7 +1712,8 @@
             "versioned_id": "dshow_input",
             "settings": {
                 "video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#22a&24d56c87&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
-                "last_video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#22a&24d56c87&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+                "last_video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#22a&24d56c87&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "deactivate_when_not_showing": true
             },
             "mixers": 255,
             "sync": 0,
@@ -1946,7 +1948,8 @@
             "versioned_id": "dshow_input",
             "settings": {
                 "video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#226&3cdf268&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
-                "last_video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#226&3cdf268&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+                "last_video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#226&3cdf268&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "deactivate_when_not_showing": true
             },
             "mixers": 255,
             "sync": 0,
@@ -1978,7 +1981,8 @@
             "versioned_id": "dshow_input",
             "settings": {
                 "video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#22a&14a18d02&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
-                "last_video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#22a&14a18d02&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+                "last_video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#22a&14a18d02&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "deactivate_when_not_showing": true
             },
             "mixers": 255,
             "sync": 0,
@@ -2248,7 +2252,8 @@
             "versioned_id": "dshow_input",
             "settings": {
                 "video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#229&371417ba&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
-                "last_video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#229&371417ba&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+                "last_video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#229&371417ba&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "deactivate_when_not_showing": true
             },
             "mixers": 255,
             "sync": 0,
@@ -2280,7 +2285,8 @@
             "versioned_id": "dshow_input",
             "settings": {
                 "video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#226&191861b&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
-                "last_video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#226&191861b&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+                "last_video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#226&191861b&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "deactivate_when_not_showing": true
             },
             "mixers": 255,
             "sync": 0,
