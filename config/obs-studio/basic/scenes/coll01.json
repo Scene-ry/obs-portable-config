@@ -65,7 +65,7 @@
     "sources": [
         {
             "prev_ver": 536936450,
-            "name": "handshot",
+            "name": "cam-lm2",
             "uuid": "7dc32097-a982-4b38-9d55-bbab2bdffbae",
             "id": "dshow_input",
             "versioned_id": "dshow_input",
@@ -420,7 +420,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "text": "Fri",
+                "text": "Sun",
                 "font": {
                     "face": "Consolas",
                     "flags": 0,
@@ -798,7 +798,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "text": "21:02:05",
+                "text": "20:32:51",
                 "font": {
                     "face": "Consolas",
                     "flags": 0,
@@ -951,7 +951,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v2",
             "settings": {
-                "text": "2026-05-01",
+                "text": "2026-05-17",
                 "font": {
                     "face": "Consolas",
                     "flags": 0,
@@ -1839,6 +1839,132 @@
             },
             "mixers": 255,
             "sync": 30000000,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936450,
+            "name": "screen-lm1",
+            "uuid": "4530cc64-f734-4751-874e-1d7295454674",
+            "id": "dshow_input",
+            "versioned_id": "dshow_input",
+            "settings": {
+                "video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#226&3cdf268&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "last_video_device_id": "CU4K30 UVC UHD Video:\\\\?\\usb#22vid_0b05&pid_e001&mi_00#226&3cdf268&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": true,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936450,
+            "name": "cam-lm1",
+            "uuid": "8506e9d6-0fc2-4af3-acc7-296dffbb4d2a",
+            "id": "dshow_input",
+            "versioned_id": "dshow_input",
+            "settings": {
+                "video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#22a&14a18d02&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "last_video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#22a&14a18d02&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936450,
+            "name": "sound-lm1",
+            "uuid": "e33f0c98-a792-412f-8670-68e50bb0a536",
+            "id": "wasapi_input_capture",
+            "versioned_id": "wasapi_input_capture",
+            "settings": {
+                "device_id": "{0.0.1.00000000}.{15c4e2f5-ef23-4a59-8905-37dabc4bb5b8}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 3.1622776985168457,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936450,
+            "name": "mic-lm1",
+            "uuid": "0156a8a4-47c0-4b4d-b13c-f9a248c81714",
+            "id": "wasapi_input_capture",
+            "versioned_id": "wasapi_input_capture",
+            "settings": {
+                "device_id": "{0.0.1.00000000}.{ef5efd32-24d3-48c4-9430-8f84055feeff}"
+            },
+            "mixers": 255,
+            "sync": 0,
             "flags": 0,
             "volume": 1.0,
             "balance": 0.5,
@@ -3911,7 +4037,7 @@
                 "id_counter": 23,
                 "items": [
                     {
-                        "name": "handshot",
+                        "name": "cam-lm2",
                         "source_uuid": "7dc32097-a982-4b38-9d55-bbab2bdffbae",
                         "visible": true,
                         "locked": false,
@@ -4734,13 +4860,178 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 38,
+                "id_counter": 44,
                 "items": [
                     {
-                        "name": "handshot",
-                        "source_uuid": "7dc32097-a982-4b38-9d55-bbab2bdffbae",
+                        "name": "cam-lm1",
+                        "source_uuid": "8506e9d6-0fc2-4af3-acc7-296dffbb4d2a",
                         "visible": true,
                         "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 42,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 1455.0,
+                            "y": 583.0
+                        },
+                        "pos_rel": {
+                            "x": 0.9166666865348816,
+                            "y": 0.07962965965270996
+                        },
+                        "scale": {
+                            "x": 1.134374976158142,
+                            "y": 1.1354166269302368
+                        },
+                        "scale_rel": {
+                            "x": 1.134374976158142,
+                            "y": 1.1354166269302368
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "mic-lm1",
+                        "source_uuid": "0156a8a4-47c0-4b4d-b13c-f9a248c81714",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 44,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "sound-lm1",
+                        "source_uuid": "e33f0c98-a792-412f-8670-68e50bb0a536",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 43,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "cam-lm2",
+                        "source_uuid": "7dc32097-a982-4b38-9d55-bbab2bdffbae",
+                        "visible": false,
+                        "locked": true,
                         "rot": 0.0,
                         "scale_ref": {
                             "x": 1920.0,
@@ -4849,7 +5140,7 @@
                     {
                         "name": "gamescreen",
                         "source_uuid": "3d7a9a39-2451-4ed2-af12-7295b4aded15",
-                        "visible": true,
+                        "visible": false,
                         "locked": false,
                         "rot": 0.0,
                         "scale_ref": {
@@ -4904,7 +5195,7 @@
                     {
                         "name": "micsound",
                         "source_uuid": "52c57677-19a8-4f34-a609-d0d909ab8ba1",
-                        "visible": true,
+                        "visible": false,
                         "locked": false,
                         "rot": 0.0,
                         "scale_ref": {
@@ -4959,7 +5250,7 @@
                     {
                         "name": "gamesound",
                         "source_uuid": "ef04b84b-ced6-40e7-a7ce-9c748e484be1",
-                        "visible": true,
+                        "visible": false,
                         "locked": false,
                         "rot": 0.0,
                         "scale_ref": {
@@ -4991,6 +5282,61 @@
                         "scale_rel": {
                             "x": 1.0,
                             "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "screen-lm1",
+                        "source_uuid": "4530cc64-f734-4751-874e-1d7295454674",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 41,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 30.0,
+                            "y": 29.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7222222089767456,
+                            "y": -0.9462962746620178
+                        },
+                        "scale": {
+                            "x": 0.7421875,
+                            "y": 0.7425925731658936
+                        },
+                        "scale_rel": {
+                            "x": 0.7421875,
+                            "y": 0.7425925731658936
                         },
                         "bounds": {
                             "x": 0.0,
@@ -6075,16 +6421,8 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.32": [],
-                "libobs.hide_scene_item.32": [],
                 "libobs.show_scene_item.13": [],
                 "libobs.hide_scene_item.13": [],
-                "libobs.show_scene_item.35": [],
-                "libobs.hide_scene_item.35": [],
-                "libobs.show_scene_item.38": [],
-                "libobs.hide_scene_item.38": [],
-                "libobs.show_scene_item.37": [],
-                "libobs.hide_scene_item.37": [],
                 "libobs.show_scene_item.3": [],
                 "libobs.hide_scene_item.3": [],
                 "libobs.show_scene_item.4": [],
@@ -6108,7 +6446,23 @@
                 "libobs.show_scene_item.22": [],
                 "libobs.hide_scene_item.22": [],
                 "libobs.show_scene_item.24": [],
-                "libobs.hide_scene_item.24": []
+                "libobs.hide_scene_item.24": [],
+                "libobs.show_scene_item.41": [],
+                "libobs.hide_scene_item.41": [],
+                "libobs.show_scene_item.42": [],
+                "libobs.hide_scene_item.42": [],
+                "libobs.show_scene_item.32": [],
+                "libobs.hide_scene_item.32": [],
+                "libobs.show_scene_item.35": [],
+                "libobs.hide_scene_item.35": [],
+                "libobs.show_scene_item.38": [],
+                "libobs.hide_scene_item.38": [],
+                "libobs.show_scene_item.37": [],
+                "libobs.hide_scene_item.37": [],
+                "libobs.show_scene_item.43": [],
+                "libobs.hide_scene_item.43": [],
+                "libobs.show_scene_item.44": [],
+                "libobs.hide_scene_item.44": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
